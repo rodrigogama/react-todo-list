@@ -1,0 +1,13 @@
+{
+  "parser": "babel-eslint",
+  "extends": "react-app",
+  "plugins": [
+    "prettier",
+    "react",
+    "jsx-a11y",
+    "import"
+  ],
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}
